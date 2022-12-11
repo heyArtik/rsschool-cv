@@ -1,16 +1,16 @@
 # Andrey Krasheninnikov
 ## Contact
-   - Email: agolanov18@gmail.com
-   - tg: @heyartik
+  - Email: agolanov18@gmail.com
+  - tg: @heyartik
 
 ## About Me
-        I am a student. There is no experience in development, but there is a great desire to learn and develop.
+  I am a student. There is no experience in development, but there is a great desire to learn and develop.
 
 ## My skills
-   - HTML5, CSS3
-   - Git, GitHub
-   - VS Code
-   - JavaScript Basics
+  - HTML5, CSS3
+  - Git, GitHub
+  - VS Code
+  - JavaScript Basics
 
 ## Code
     ```
