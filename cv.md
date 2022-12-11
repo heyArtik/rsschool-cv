@@ -32,8 +32,3 @@
 ## Languages
    - English - basic
    - Russian - native   
-
-
-
-
-   
