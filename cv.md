@@ -13,22 +13,22 @@
   - JavaScript Basics
 
 ## Code
-    ```
-        function checkAge(age) {
+  ```
+      function checkAge(age) {
         if(age > 18) { 
-            alert(age); 
-        } else { 
-            return confirm('Age is not right!'); 
-        } 
-    ```
+          alert(age); 
+      } else { 
+          return confirm('Age is not right!'); 
+      } 
+  ```
 
 ## Work experience
-        Didn't work, just studying
+  Didn't work, just studying
 
 ## Courses
-[JavaScript](https://learn.javascript.ru/)
-[rsschool-stage0](https://rs.school/js-stage0/)
+  [JavaScript](https://learn.javascript.ru/)
+  [rsschool-stage0](https://rs.school/js-stage0/)
 
 ## Languages
-   - English - basic
-   - Russian - native   
+  - English - basic
+  - Russian - native   
