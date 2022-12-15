@@ -109,7 +109,7 @@ hr {
 }
 
 .gh {
-  background-image: url(./github-mark.png);
+  background-image: url(./img/github-mark.png);
   width: 30px;
   height: 30px;
   background-repeat: no-repeat;
@@ -117,7 +117,7 @@ hr {
 }
 
 .rs {
-  background-image: url(./rs_school_js.svg);
+  background-image: url(./img/rs_school_js.svg);
   width: 70px;
   height: 30px;
   background-repeat: no-repeat;
